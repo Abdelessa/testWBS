@@ -1,1 +1,23 @@
 test heute 13.08.2024
+
+Hier sind einige der wichtigsten Befehle, die du bei GitHub (bzw. Git) verwenden kannst:
+
+1- Repository klonen:
+git remote add origin <repository-url>
+
+
+2- Änderungen verfolgen:
+git add <datei-oder-verzeichnis>
+
+3-Änderungen committen:
+git commit -m "Commit-Nachricht"
+
+4-Änderungen zum Remote-Repository pushen:
+git push origin <branch-name>
+
+5- Änderungen vom Remote-Repository pullen:
+git pull origin <branch-name>
+
+6-Branch erstellen:
+git checkout -b <branch-name>
+
