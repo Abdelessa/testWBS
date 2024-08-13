@@ -1,4 +1,5 @@
 # testWBS
 Git vom Festplatte aktualiseren, falls die Datei gleich Name haben
   
-test Änderung 
+Test Änderung am 13.08.2024 vom Abdel , abgesprochen mit dem Team
+
